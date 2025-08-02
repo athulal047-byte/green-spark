@@ -25,5 +25,5 @@ https://github.com/athulal047-byte/green-spark
 ## Screenshot
 Include a screenshot of your project UI or working demo:
 ![image_alt](https://github.com/athulal047-byte/green-spark/blob/a1fb0837c79853388d6319805ba4d359bd7baa08/Screenshot%202025-08-02%20203948.png)
-![image_alt]
+![image_alt](https://github.com/athulal047-byte/green-spark/blob/b381fc0914d03db6cdc5fb2e911e84263d741fb4/Screenshot%202025-08-02%20210907.png)
 
