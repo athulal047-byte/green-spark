@@ -4,7 +4,7 @@
 AquaWa
 
 ## Problem Statement Addressed
-"How might we build and deploy that help individuals to track their water and energy usage to build greener neighborhoods.
+How might we build and deploy that help individuals to track their water and energy usage to build greener neighborhoods.
 ## Project Overview
 A front-end web application called AquaWatt assists users in tracking their monthly energy and water consumption, visualizing their environmental impact, and forming environmentally friendly behaviors. It raises awareness of sustainability and encourages community involvement through interactive graphs, a neighborhood leaderboard, and a simple user interface.
 
