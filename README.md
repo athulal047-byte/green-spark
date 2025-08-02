@@ -1,7 +1,7 @@
 # 🚀 Green Spark Submission
 
 ## Project Title
-AquaWa
+AquaWatt
 
 ## Problem Statement Addressed
 How might we build and deploy that help individuals to track their water and energy usage to build greener neighborhoods.
