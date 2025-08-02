@@ -26,7 +26,7 @@ A front-end web application called AquaWatt assists users in tracking their mont
 Include a screenshot of your project UI or working demo:
 
 ```md
-![Screenshot](./assets/screenshot.png)
+![image_alt](https://github.com/athulal047-byte/green-spark/blob/a1fb0837c79853388d6319805ba4d359bd7baa08/Screenshot%202025-08-02%20203948.png)
 
 Additional Notes (Optional)
 
