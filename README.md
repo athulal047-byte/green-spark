@@ -14,7 +14,7 @@ A front-end web application called AquaWatt assists users in tracking their mont
 - Impact Simulator
 
 ## GitHub Repository Link
-<!-- Paste your public repo link here -->
+[<!-- Paste your public repo link here -->](https://github.com/athulal047-byte/green-spark)
 
 ## Team Members & Roles
 - Amarnath – Front End Developer
