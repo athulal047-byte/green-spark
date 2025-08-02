@@ -25,30 +25,3 @@ A front-end web application called AquaWatt assists users in tracking their mont
 ## Screenshot
 Include a screenshot of your project UI or working demo:
 ![image_alt](https://github.com/athulal047-byte/green-spark/blob/a1fb0837c79853388d6319805ba4d359bd7baa08/Screenshot%202025-08-02%20203948.png)
-
-Additional Notes (Optional)
-
-Any challenges faced, tech stack used, or future plans.
-
----
-
-## 📤 How to Submit
-
-1. Complete your work before **9:00 PM IST**.
-2. Make sure your GitHub repository is public.
-3. Ensure all required files are pushed.
-4. Share the repository link via the assigned platform/medium.
-
----
-
-## 🧑‍⚖️ Judging Criteria
-
-Submissions will be evaluated on:
-
-- Relevance to the problem statement
-- Working functionality
-- Technical depth
-- Design & usability
-- Creativity and real-world impact
-
----
